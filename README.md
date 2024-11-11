@@ -19,6 +19,6 @@
       @@@@@@@@                @@@@@@@@@@@@@@@@@@@@               @@@@@@@@@@     
 ```
 # Chicago Kare
-A Recreation of the Bitmap Version of Chicago by Susan Kare for Apple Computer in 1984
+A Faithful Reproduction of the Bitmap Version of Chicago by Susan Kare for Apple Computer in 1984
 
 ![My Image](/src/chicago-kare.png)
