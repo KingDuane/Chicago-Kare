@@ -19,6 +19,6 @@
       @@@@@@@@                @@@@@@@@@@@@@@@@@@@@               @@@@@@@@@@     
 ```
 # Chicago Kare
-An Adaption of Chicago by Susan Kare as Rendered on a 1984 Apple Computer
+A Recreation of the Bitmap Version of Chicago by Susan Kare for Apple Computer in 1984
 
 ![My Image](/src/chicago-kare.png)
