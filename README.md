@@ -20,3 +20,5 @@
 ```
 # Chicago Kare
 An Adaption of Chicago by Susan Kare as Rendered on a 1984 Apple Computer
+
+![My Image](/src/chicago-kare.png)
