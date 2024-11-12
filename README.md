@@ -19,6 +19,6 @@
       @@@@@@@@                @@@@@@@@@@@@@@@@@@@@               @@@@@@@@@@     
 ```
 # Chicago Kare
-A Faithful Reproduction of the Bitmap Version of Chicago by Susan Kare for Apple Computer in 1984
+A Faithful Reproduction of the Bitmap Version of the Chicago Typeface Created by Susan Kare for Apple Computer in 1984
 
 ![My Image](/src/chicago-kare.png)
